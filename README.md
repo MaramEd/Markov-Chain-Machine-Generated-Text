@@ -1,10 +1,10 @@
-# <div align= "center"> Natural Language Processing: Text Generation</div>
+# <div align= "center"> Natural Language Processing: Text Generation Project </div>
       
 ### Introduction
 
 <p align= "justify"> Natural language processing (NLP) is “a computational process that analyzes natural language units [such as, phonological, morphological, lexical, syntactic, semantic, discourse and pragmatic] in different levels of linguistic analysis” (Ghamdi, Khabti and Al-Khalifa, 2017, pp. 175).</p>
                
-### Objective:
+### Project objective:
 To lift the spirits of the General Assembly community, specifically the data science immersive group. 
 
 ### Method:
