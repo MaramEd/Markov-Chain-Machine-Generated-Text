@@ -3,11 +3,7 @@
 ### Introduction
 
 <p align= "justify"> Natural language processing (NLP) is “a computational process that analyzes natural language units [such as, phonological, morphological, lexical, syntactic, semantic, discourse and pragmatic] in different levels of linguistic analysis” (Ghamdi, Khabti and Al-Khalifa, 2017, pp. 175).</p>
-
-<img src='Pipeline_Framework.png'>
-           
-                 Image 1: Scraping Pipeline Framework (source: edited image from Laetsch, 2020)
-                 
+               
 ### Objective:
 To lift the spirits of the General Assembly community, specifically the data science immersive group. 
 
