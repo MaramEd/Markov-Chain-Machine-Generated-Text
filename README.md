@@ -1,6 +1,6 @@
 # <div align= "center"> Natural Language Processing: Text Generation Project </div>
       
-### Introduction
+## Introduction
 
 <p align= "justify"> Natural language processing (NLP) is “a computational process that analyzes natural language units [such as, phonological, morphological, lexical, syntactic, semantic, discourse and pragmatic] in different levels of linguistic analysis” (Ghamdi, Khabti and Al-Khalifa, 2017, pp. 175).</p>
                
@@ -10,7 +10,7 @@ To lift the spirits of the General Assembly community, specifically the data s
 ### Method:
 Post motivational quotes on Slack to keep morale high.
 
-### Conclusion
+## Conclusion
 <p align="justify">NLP plays a significant role in advancing human-machine interactions. With more research in this field, there is a significant chance of a breakthrough that will allow machines to recognize and understand human language, and perhaps, automate the workforce (Dun Dun Duuuuun!). </p>
 
 ## References:
